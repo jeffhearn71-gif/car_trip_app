@@ -14,13 +14,13 @@ Animals,Farmyard,Horse,2,FALSE,Animals_Farmyard_Horse,Animals_Farmyard_Horse,pet
 Animals,Farmyard,Sheep,2,FALSE,Animals_Farmyard_Sheep,Animals_Farmyard_Sheep,pets,farmer|animals,Me and the farmer!|Animals crackers!
 Buildings,Construction,Crane,2,FALSE,Buildings_Construction_Crane,Buildings_Construction_Crane,construction,builder,Bob the builder!
 Buildings,Construction,Scaffolding,1,FALSE,Buildings_Construction_Scaffolding,Buildings_Construction_Scaffolding,construction,builder,Bob the builder!
-Buildings,Houses,Door Black,1,FALSE,Buildings_Houses_Door Black,Buildings_Houses_Door Black,home,location|rainbow,Location location location!|Somewhere over the rainbow!
-Buildings,Houses,Door Blue,2,FALSE,Buildings_Houses_Door Blue,Buildings_Houses_Door Blue,home,location|rainbow,Location location location!|Somewhere over the rainbow!
-Buildings,Houses,Door Green,2,FALSE,Buildings_Houses_Door Green,Buildings_Houses_Door Green,home,location|rainbow,Location location location!|Somewhere over the rainbow!
-Buildings,Houses,Door Other,1,FALSE,Buildings_Houses_Door Other,Buildings_Houses_Door Other,home,location|rainbow,Location location location!|Somewhere over the rainbow!
-Buildings,Houses,Door Red,2,FALSE,Buildings_Houses_Door Red,Buildings_Houses_Door Red,home,location|rainbow,Location location location!|Somewhere over the rainbow!
-Buildings,Houses,Door White,1,FALSE,Buildings_Houses_Door White,Buildings_Houses_Door White,home,location|rainbow,Location location location!|Somewhere over the rainbow!
-Buildings,Houses,Painted,1,FALSE,Buildings_Houses_Painted,Buildings_Houses_Painted,home,location|rainbow,Location location location!|Somewhere over the rainbow!
+Buildings,Houses,Door Black,1,FALSE,Buildings_Houses_Door Black,Buildings_Houses_Door Black,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door Blue,2,FALSE,Buildings_Houses_Door Blue,Buildings_Houses_Door Blue,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door Green,2,FALSE,Buildings_Houses_Door Green,Buildings_Houses_Door Green,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door Other,1,FALSE,Buildings_Houses_Door Other,Buildings_Houses_Door Other,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door Red,2,FALSE,Buildings_Houses_Door Red,Buildings_Houses_Door Red,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door White,1,FALSE,Buildings_Houses_Door White,Buildings_Houses_Door White,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Painted,1,FALSE,Buildings_Houses_Painted,Buildings_Houses_Painted,home,location|rainbow,Location location location!|Over the rainbow!
 Buildings,Places of Interest,Car Salesroom,1,FALSE,Buildings_Places of Interest_Car Salesroom,Buildings_Places of Interest_Salesroom,location_city,interest,Been there done that!
 Buildings,Places of Interest,Carwash,1,FALSE,Buildings_Places of Interest_Carwash,Buildings_Places of Interest_Carwash,location_city,interest,Been there done that!
 Buildings,Places of Interest,Church,1,FALSE,Buildings_Places of Interest_Church,Buildings_Places of Interest_Church,location_city,interest,Been there done that!
@@ -44,13 +44,13 @@ Buildings,Shops,Pet Shop/Grooming,2,FALSE,Buildings_Shops_Pet Shop/Grooming,Buil
 Buildings,Shops,Pharmacy,2,FALSE,Buildings_Shops_Pharmacy,Buildings_Shops_Pharmacy,storefront,shop_drop,Shop 'til you drop!
 Buildings,Shops,Pizza,2,FALSE,Buildings_Shops_Pizza,Buildings_Shops_Pizza,storefront,shop_drop,Shop 'til you drop!
 Buildings,Shops,Vape/Person Vaping,2,FALSE,Buildings_Shops_Vape/Person Vaping,Buildings_Shops_Vape,storefront,shop_drop,Shop 'til you drop!
-Car,Colours,Brown,1,FALSE,Car_Colours_Brown,Car_Colours_Brown,palette,rainbow,Somewhere over the rainbow!
-Car,Colours,Green,1,FALSE,Car_Colours_Green,Car_Colours_Green,palette,rainbow,Somewhere over the rainbow!
-Car,Colours,Orange,2,FALSE,Car_Colours_Orange,Car_Colours_Orange,palette,rainbow,Somewhere over the rainbow!
-Car,Colours,Pink,4,FALSE,Car_Colours_Pink,Car_Colours_Pink,palette,rainbow,Somewhere over the rainbow!
-Car,Colours,Purple,3,FALSE,Car_Colours_Purple,Car_Colours_Purple,palette,rainbow,Somewhere over the rainbow!
-Car,Colours,Two-toned,1,FALSE,Car_Colours_Two-toned,Car_Colours_Two-toned,palette,rainbow,Somewhere over the rainbow!
-Car,Colours,Yellow,1,FALSE,Car_Colours_Yellow,Car_Colours_Yellow,palette,rainbow,Somewhere over the rainbow!
+Car,Colours,Brown,1,FALSE,Car_Colours_Brown,Car_Colours_Brown,palette,rainbow,Over the rainbow!
+Car,Colours,Green,1,FALSE,Car_Colours_Green,Car_Colours_Green,palette,rainbow,Over the rainbow!
+Car,Colours,Orange,2,FALSE,Car_Colours_Orange,Car_Colours_Orange,palette,rainbow,Over the rainbow!
+Car,Colours,Pink,4,FALSE,Car_Colours_Pink,Car_Colours_Pink,palette,rainbow,Over the rainbow!
+Car,Colours,Purple,3,FALSE,Car_Colours_Purple,Car_Colours_Purple,palette,rainbow,Over the rainbow!
+Car,Colours,Two-toned,1,FALSE,Car_Colours_Two-toned,Car_Colours_Two-toned,palette,rainbow,Over the rainbow!
+Car,Colours,Yellow,1,FALSE,Car_Colours_Yellow,Car_Colours_Yellow,palette,rainbow,Over the rainbow!
 Car,External Items,Bike on a boot,1,FALSE,Car_External Items_Bike on a boot,Car_External Items_Bike-boot,directions_car,bike,On yer bike!
 Car,External Items,Bike on a roof rack,1,FALSE,Car_External Items_Bike on a roof rack,Car_External Items_Bike-roof,directions_car,bike,On yer bike!
 Car,External Items,Car with advertising on it,1,FALSE,Car_External Items_Car with advertising on it,Car_External Items_Advertising,directions_car,,
@@ -111,9 +111,9 @@ Misc - Items,Bins,Dog poo bin,2,FALSE,Misc - Items_Bins_Dog poo bin,Misc - Items
 Misc - Items,Bins,Litter bin,2,FALSE,Misc - Items_Bins_Litter bin,Misc - Items_Bins_Litter,recycling,bin,It's bin a long time coming!
 Misc - Items,Bins,Recycling Box Other,1,FALSE,Misc - Items_Bins_Recycling Box Other,Misc - Items_Bins_Recycling,recycling,bin,It's bin a long time coming!
 Misc - Items,Bins,Skip,1,FALSE,Misc - Items_Bins_Skip,Misc - Items_Bins_Skip,recycling,bin|builder,It's bin a long time coming!|Bob the builder!
-Misc - Items,Bins,Wheelie Black/Grey,1,FALSE,Misc - Items_Bins_Wheelie Black/Grey,Misc - Items_Bins_Wheelie Black,recycling,bin|rainbow,It's bin a long time coming!|Somewhere over the rainbow!
-Misc - Items,Bins,Wheelie Brown,1,FALSE,Misc - Items_Bins_Wheelie Brown,Misc - Items_Bins_Wheelie Brown,recycling,bin|rainbow,It's bin a long time coming!|Somewhere over the rainbow!
-Misc - Items,Bins,Wheelie Green,1,FALSE,Misc - Items_Bins_Wheelie Green,Misc - Items_Bins_Wheelie Green,recycling,bin|rainbow,It's bin a long time coming!|Somewhere over the rainbow!
+Misc - Items,Bins,Wheelie Black/Grey,1,FALSE,Misc - Items_Bins_Wheelie Black/Grey,Misc - Items_Bins_Wheelie Black,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Bins,Wheelie Brown,1,FALSE,Misc - Items_Bins_Wheelie Brown,Misc - Items_Bins_Wheelie Brown,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Bins,Wheelie Green,1,FALSE,Misc - Items_Bins_Wheelie Green,Misc - Items_Bins_Wheelie Green,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
 Misc - Items,Bus Stops,Bus Stop (Pole only),1,FALSE,Misc - Items_Bus Stops_Bus Stop (Pole only),Misc - Items_Bus Stops_Bus Stop Pole,bus_map_pin,bus_coach,Bus-ted!
 Misc - Items,Bus Stops,Bus Stop with Shelter,2,FALSE,Misc - Items_Bus Stops_Bus Stop with Shelter,Misc - Items_Bus Stops_Bus Stop Shelter,bus_map_pin,bus_coach,Bus-ted!
 Misc - Items,Flags,Flag - Not Country Related,2,FALSE,Misc - Items_Flags_Flag - Not Country Related,Misc - Items_Flags_Flag - Not Country Related,flag,flying,Air today gone tomorrow!
@@ -136,12 +136,12 @@ Misc - Items,Objects,Washing/Clothes Hung Up,1,FALSE,Misc - Items_Objects_Washin
 Misc - Items,Objects,Wooden Pallets,1,FALSE,Misc - Items_Objects_Wooden Pallets,Misc - Items_Objects_Wooden Pallets,category,object,Object of desire!
 Misc - Items,People,Hat,2,FALSE,Misc - Items_People_Hat,Misc - Items_People_Hat,person,,
 Misc - Items,People,Jogger,2,FALSE,Misc - Items_People_Jogger,Misc - Items_People_Jogger,person,,
-Misc - Items,People,Person on their phone,1,FALSE,Misc - Items_People_Person on their phone,Misc - Items_People_Doom_Scroll,person,wavelength,We're on the same wavelength!
-Misc - Items,Technology,CCTV Camera,1,FALSE,Misc - Items_Technology_CCTV Camera,Misc - Items_Technology_CCTV Camera,settings_input_antenna,wavelength,We're on the same wavelength!
-Misc - Items,Technology,Pylon (end),3,FALSE,Misc - Items_Technology_Pylon (end),Misc - Items_Technology_End Pylon,settings_input_antenna,wavelength,We're on the same wavelength!
-Misc - Items,Technology,Satellite Dish,1,FALSE,Misc - Items_Technology_Satellite Dish,Misc - Items_Technology_Satellite Dish,settings_input_antenna,location|wavelength,Location location location!|We're on the same wavelength!
-Misc - Items,Technology,Solar Panels,1,FALSE,Misc - Items_Technology_Solar Panels,Misc - Items_Technology_Solar Panels,settings_input_antenna,wavelength,We're on the same wavelength!
-Misc - Items,Technology,Wind Turbine,3,FALSE,Misc - Items_Technology_Wind Turbine,Misc - Items_Technology_Wind Turbine,settings_input_antenna,wavelength,We're on the same wavelength!
+Misc - Items,People,Person on their phone,1,FALSE,Misc - Items_People_Person on their phone,Misc - Items_People_Doom_Scroll,person,wavelength,Same wavelength!
+Misc - Items,Technology,CCTV Camera,1,FALSE,Misc - Items_Technology_CCTV Camera,Misc - Items_Technology_CCTV Camera,settings_input_antenna,wavelength,Same wavelength!
+Misc - Items,Technology,Pylon (end),3,FALSE,Misc - Items_Technology_Pylon (end),Misc - Items_Technology_End Pylon,settings_input_antenna,wavelength,Same wavelength!
+Misc - Items,Technology,Satellite Dish,1,FALSE,Misc - Items_Technology_Satellite Dish,Misc - Items_Technology_Satellite Dish,settings_input_antenna,location|wavelength,Location location location!|Same wavelength!
+Misc - Items,Technology,Solar Panels,1,FALSE,Misc - Items_Technology_Solar Panels,Misc - Items_Technology_Solar Panels,settings_input_antenna,wavelength,Same wavelength!
+Misc - Items,Technology,Wind Turbine,3,FALSE,Misc - Items_Technology_Wind Turbine,Misc - Items_Technology_Wind Turbine,settings_input_antenna,wavelength,Same wavelength!
 Parks & Nature,Hay Bales,Covered,3,FALSE,Parks & Nature_Hay Bales_Covered,Parks & Nature_Hay Bales_Covered,wheat,farmer|naturel,Me and the farmer!|Au naturel!
 Parks & Nature,Hay Bales,Uncovered,3,FALSE,Parks & Nature_Hay Bales_Uncovered,Parks & Nature_Hay Bales_Uncovered,wheat,farmer|naturel,Me and the farmer!|Au naturel!
 Parks & Nature,The Outdoors,Expanse of water,1,FALSE,Parks & Nature_The Outdoors_Expanse of water,Parks & Nature_The Outdoors_Expanse of water,park,naturel,Au naturel!
@@ -152,19 +152,19 @@ Parks & Nature,Playground,Ball,3,FALSE,Parks & Nature_Playground_Ball,Parks & Na
 Parks & Nature,Playground,Equipment,2,FALSE,Parks & Nature_Playground_Equipment,Parks & Nature_Playground_Equipment,child_care,naturel,Au naturel!
 Parks & Nature,Playground,Football Posts,2,FALSE,Parks & Nature_Playground_Football Posts,Parks & Nature_Playground_Football Posts,child_care,naturel,Au naturel!
 Road,Floor Markings,Bus Lane/Stop,1,FALSE,Road_Floor Markings_Bus Lane/Stop,Road_Floor Markings_Bus Lane/Stop,road,bus_coach|middle_road,Bus-ted!|Middle of the road!
-Road,Floor Markings,Double Yellow Lines,1,FALSE,Road_Floor Markings_Double Yellow Lines,Road_Floo Markingsr_Double Yellow Lines,road,rainbow|middle_road,Somewhere over the rainbow!|Middle of the road!
+Road,Floor Markings,Double Yellow Lines,1,FALSE,Road_Floor Markings_Double Yellow Lines,Road_Floo Markingsr_Double Yellow Lines,road,rainbow|middle_road,Over the rainbow!|Middle of the road!
 Road,Floor Markings,Keep Clear/No Entry,1,FALSE,Road_Floor Markings_Keep Clear/No Entry,Road_Floo Markingsr_Keep Clear_No Entry,road,middle_road,Middle of the road!
 Road,Floor Markings,Road kill,2,FALSE,Road_Floor Markings_Road kill,Road_Floor Markings_Road kill,road,middle_road|park_mate,Middle of the road!|You can't park there mate!
 Road,Floor Markings,Rumble Strip/Speed Bump,1,FALSE,Road_Floor Markings_Rumble Strip/Speed Bump,Road_Floor Markings_Speed Bump,road,speed_freak|middle_road,Speed freak!|Middle of the road!
 Road,Floor Markings,Slow,1,FALSE,Road_Floor Markings_Slow,Road_Floor Markings_Slow,road,middle_road,Middle of the road!
 Road,Floor Markings,Speed Limit (Any),1,FALSE,Road_Floor Markings_Speed Limit (Any),Road_Floor Markings_Speed Limit (Any),road,speed_freak|middle_road,Speed freak!|Middle of the road!
-Road,Floor Markings,Yellow Box Junction,2,FALSE,Road_Floor Markings_Yellow Box Junction,Road_Floor Markings_Yellow Box Junction,road,rainbow|middle_road,Somewhere over the rainbow!|Middle of the road!
+Road,Floor Markings,Yellow Box Junction,2,FALSE,Road_Floor Markings_Yellow Box Junction,Road_Floor Markings_Yellow Box Junction,road,rainbow|middle_road,Over the rainbow!|Middle of the road!
 Road,Floor Markings,Zebra crossing,1,FALSE,Road_Floor Markings_Zebra crossing,Road_Floor Markings_Zebra crossing,road,middle_road|animals,Middle of the road!|Animals crackers!
-Road,Traffic Cones,Blue,2,FALSE,Road_Traffic Cones_Blue,Road_Traffic Cones_Blue,warning,cone_head|rainbow|builder,Cone head!|Somewhere over the rainbow!|Bob the builder!
-Road,Traffic Cones,Green,3,FALSE,Road_Traffic Cones_Green,Road_Traffic Cones_Green,warning,cone_head|rainbow|builder,Cone head!|Somewhere over the rainbow!|Bob the builder!
-Road,Traffic Cones,Orange,1,FALSE,Road_Traffic Cones_Orange,Road_Traffic Cones_Orange,warning,cone_head|rainbow|builder,Cone head!|Somewhere over the rainbow!|Bob the builder!
+Road,Traffic Cones,Blue,2,FALSE,Road_Traffic Cones_Blue,Road_Traffic Cones_Blue,warning,cone_head|rainbow|builder,Cone head!|Over the rainbow!|Bob the builder!
+Road,Traffic Cones,Green,3,FALSE,Road_Traffic Cones_Green,Road_Traffic Cones_Green,warning,cone_head|rainbow|builder,Cone head!|Over the rainbow!|Bob the builder!
+Road,Traffic Cones,Orange,1,FALSE,Road_Traffic Cones_Orange,Road_Traffic Cones_Orange,warning,cone_head|rainbow|builder,Cone head!|Over the rainbow!|Bob the builder!
 Road,Traffic Cones,With Light on Top,3,FALSE,Road_Traffic Cones_With Light on Top,Road_Traffic Cones_Light on Top,warning,cone_head|builder,Cone head!|Bob the builder!
-Road,Traffic Cones,Yellow,2,FALSE,Road_Traffic Cones_Yellow,Road_Traffic Cones_Yellow,warning,cone_head|rainbow|builder,Cone head!|Somewhere over the rainbow!|Bob the builder!
+Road,Traffic Cones,Yellow,2,FALSE,Road_Traffic Cones_Yellow,Road_Traffic Cones_Yellow,warning,cone_head|rainbow|builder,Cone head!|Over the rainbow!|Bob the builder!
 Signs,Distances,Miles: < 01 (Fraction),1,FALSE,Signs_Distances_Miles: < 01 (Fraction),Signs_Distances_Miles: < 01 (Fraction),signpost,distance,Long distance runner!
 Signs,Distances,Miles: 01-05,1,FALSE,Signs_Distances_Miles: 01-05,Signs_Distances_Miles: 01-05,signpost,distance,Long distance runner!
 Signs,Distances,Miles: 06-10,1,FALSE,Signs_Distances_Miles: 06-10,Signs_Distances_Miles: 06-10,signpost,distance,Long distance runner!
@@ -213,25 +213,25 @@ Signs,Highway Code,Permit Holders Parking,1,FALSE,Signs_Highway Code_Permit Hold
 Signs,Highway Code,Priority Right of Way,2,FALSE,Signs_Highway Code_Priority Right of Way,Signs_Highway Code_Priority,rule,highway,Highway robbery!
 Signs,Highway Code,Weight Restriction,2,FALSE,Signs_Highway Code_Weight Restriction,Signs_Highway Code_Weight Restriction,rule,highway,Highway robbery!
 Signs,Highway Code,Countdown Markers,1,FALSE,Signs_Highway Code_Countdown Markers,Signs_Highway Code_Countdown Markers,info,highway,Highway robbery!
-Signs,Highway Code,Hospital (Blue),2,FALSE,Signs_Highway Code_Hospital (Blue),Signs_Highway Code_Hospital Blue,info,highway|rainbow,Highway robbery!|Somewhere over the rainbow!
-Signs,Highway Code,Hospital (Red),2,FALSE,Signs_Highway Code_Hospital (Red),Signs_Highway Code_Hospital Red,info,highway|rainbow,Highway robbery!|Somewhere over the rainbow!
+Signs,Highway Code,Hospital (Blue),2,FALSE,Signs_Highway Code_Hospital (Blue),Signs_Highway Code_Hospital Blue,info,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Highway Code,Hospital (Red),2,FALSE,Signs_Highway Code_Hospital (Red),Signs_Highway Code_Hospital Red,info,highway|rainbow,Highway robbery!|Over the rainbow!
 Signs,Highway Code,No Through Road,1,FALSE,Signs_Highway Code_No Through Road,Signs_Highway Code_No Through Road,info,highway,Highway robbery!
 Signs,Highway Code,Railway,2,FALSE,Signs_Highway Code_Railway,Signs_Highway Code_Railway,info,highway,Highway robbery!
 Signs,Highway Code,SOS,1,FALSE,Signs_Highway Code_SOS,Signs_Highway Code_SOS,info,highway|park_mate,Highway robbery!|You can't park there mate!
 Signs,Highway Code,Speed Camera,1,FALSE,Signs_Highway Code_Speed Camera,Signs_Highway Code_Speed Camera,info,speed_freak|highway,Speed freak!|Highway robbery!
 Signs,Highway Code,Welcome to…,3,FALSE,Signs_Highway Code_Welcome to…,Signs_Highway Code_Welcome to…,info,highway,Highway robbery!
 Signs,Highway Code,Please Drive Carefully,2,FALSE,Signs_Highway Code_Please Drive Carefully,Signs_Highway Code_Please Drive Carefully,info,highway,Highway robbery!
-Signs,Highway Code,Tourism Sign - No Writing,1,FALSE,Signs_Highway Code_Tourism Sign - No Writing,Signs_Highway Code_Tourism Sign - No Writing,info,highway|rainbow,Highway robbery!|Somewhere over the rainbow!
-Signs,Highway Code,Tourism Sign - With Writing,1,FALSE,Signs_Highway Code_Tourism Sign - With Writing,Signs_Highway Code_Tourism Sign - With Writing,info,highway|rainbow,Highway robbery!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Circle - Solid,1,FALSE,Signs_Orange Diversion Routes_Circle - Solid,Signs_Orange Diversion Routes_Circle - Solid,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Circle,1,FALSE,Signs_Orange Diversion Routes_Circle,Signs_Orange Diversion Routes_Circle,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Cross (X),3,FALSE,Signs_Orange Diversion Routes_Cross (X),Signs_Orange Diversion Routes_Cross (X),category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Diamond - Solid,1,FALSE,Signs_Orange Diversion Routes_Diamond - Solid,Signs_Orange Diversion Routes_Diamond - Solid,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Diamond,1,FALSE,Signs_Orange Diversion Routes_Diamond,Signs_Orange Diversion Routes_Diamond,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Square - Solid,1,FALSE,Signs_Orange Diversion Routes_Square - Solid,Signs_Orange Diversion Routes_Square - Solid,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Square,1,FALSE,Signs_Orange Diversion Routes_Square,Signs_Orange Diversion Routes_Square,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Triangle - Solid,1,FALSE,Signs_Orange Diversion Routes_Triangle - Solid,Signs_Orange Diversion Routes_Triangle - Solid,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
-Signs,Orange Diversion Routes,Triangle,1,FALSE,Signs_Orange Diversion Routes_Triangle,Signs_Orange Diversion Routes_Triangle,category,orange_black|rainbow,Orange is the new black!|Somewhere over the rainbow!
+Signs,Highway Code,Tourism Sign - No Writing,1,FALSE,Signs_Highway Code_Tourism Sign - No Writing,Signs_Highway Code_Tourism Sign - No Writing,info,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Highway Code,Tourism Sign - With Writing,1,FALSE,Signs_Highway Code_Tourism Sign - With Writing,Signs_Highway Code_Tourism Sign - With Writing,info,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Orange Diversion Routes,Circle - Solid,1,FALSE,Signs_Orange Diversion Routes_Circle - Solid,Signs_Orange Diversion Routes_Circle - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Circle,1,FALSE,Signs_Orange Diversion Routes_Circle,Signs_Orange Diversion Routes_Circle,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Cross (X),3,FALSE,Signs_Orange Diversion Routes_Cross (X),Signs_Orange Diversion Routes_Cross (X),category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Diamond - Solid,1,FALSE,Signs_Orange Diversion Routes_Diamond - Solid,Signs_Orange Diversion Routes_Diamond - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Diamond,1,FALSE,Signs_Orange Diversion Routes_Diamond,Signs_Orange Diversion Routes_Diamond,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Square - Solid,1,FALSE,Signs_Orange Diversion Routes_Square - Solid,Signs_Orange Diversion Routes_Square - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Square,1,FALSE,Signs_Orange Diversion Routes_Square,Signs_Orange Diversion Routes_Square,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Triangle - Solid,1,FALSE,Signs_Orange Diversion Routes_Triangle - Solid,Signs_Orange Diversion Routes_Triangle - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Orange Diversion Routes,Triangle,1,FALSE,Signs_Orange Diversion Routes_Triangle,Signs_Orange Diversion Routes_Triangle,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
 Signs,Road Names,Avenue/Court/Crescent,2,FALSE,Signs_Road Names_Avenue/Court/Crescent,Signs_Road Names_Avenue/Court/Crescent,add_road,location,Location location location!
 Signs,Road Names,Close,2,FALSE,Signs_Road Names_Close,Signs_Road Names_Close,add_road,location,Location location location!
 Signs,Road Names,Lane,2,FALSE,Signs_Road Names_Lane,Signs_Road Names_Lane,add_road,location,Location location location!
@@ -239,8 +239,8 @@ Signs,Road Names,Road,1,FALSE,Signs_Road Names_Road,Signs_Road Names_Road,add_ro
 Signs,Road Names,Street,1,FALSE,Signs_Road Names_Street,Signs_Road Names_Street,add_road,location,Location location location!
 Signs,Road Names,Way,2,FALSE,Signs_Road Names_Way,Signs_Road Names_Way,add_road,location,Location location location!
 Van,Delivery,DHL,1,FALSE,Van_Delivery_DHL,Van_Delivery_DHL,local_shipping,stand_deliver,Stand and deliver!
-Van,Delivery,DPD Blue (Local),2,FALSE,Van_Delivery_DPD Blue (Local),Van_Delivery_DPD Blue (Local),local_shipping,stand_deliver|rainbow,Stand and deliver!|Somewhere over the rainbow!
-Van,Delivery,DPD Red (National),1,FALSE,Van_Delivery_DPD Red (National),Van_Delivery_DPD Red (National),local_shipping,stand_deliver|rainbow,Stand and deliver!|Somewhere over the rainbow!
+Van,Delivery,DPD Blue (Local),2,FALSE,Van_Delivery_DPD Blue (Local),Van_Delivery_DPD Blue (Local),local_shipping,stand_deliver|rainbow,Stand and deliver!|Over the rainbow!
+Van,Delivery,DPD Red (National),1,FALSE,Van_Delivery_DPD Red (National),Van_Delivery_DPD Red (National),local_shipping,stand_deliver|rainbow,Stand and deliver!|Over the rainbow!
 Van,Delivery,Evri/Hermes,1,FALSE,Van_Delivery_Evri/Hermes,Van_Delivery_Evri/Hermes,local_shipping,stand_deliver,Stand and deliver!
 Van,Delivery,FedEx/UPS,4,FALSE,Van_Delivery_FedEx/UPS,Van_Delivery_FedEx/UPS,local_shipping,stand_deliver,Stand and deliver!
 Van,Delivery,Gist,1,FALSE,Van_Delivery_Gist,Van_Delivery_Gist,local_shipping,stand_deliver,Stand and deliver!
@@ -317,9 +317,9 @@ Van,Retail,Enterprise,1,FALSE,Van_Retail_Enterprise,Van_Retail_Enterprise,shoppi
 Van,Retail,Fast Food Truck,1,FALSE,Van_Retail_Fast Food Truck,Van_Retail_Fast Food Truck,shopping_bag,retail_therapy,Retail therapy!
 Van,Retail,Greggs,1,FALSE,Van_Retail_Greggs,Van_Retail_Greggs,shopping_bag,retail_therapy,Retail therapy!
 Van,Retail,Home Bargains,1,FALSE,Van_Retail_Home Bargains,Van_Retail_Home Bargains,shopping_bag,retail_therapy,Retail therapy!
-Van,Retail,Hovis,1,FALSE,Van_Retail_Hovis,Van_Retail_Hovis,shopping_bag,retail_therapy|bread,Retail therapy!|Bringing home the bread!
+Van,Retail,Hovis,1,FALSE,Van_Retail_Hovis,Van_Retail_Hovis,shopping_bag,retail_therapy|bread,Retail therapy!|Bread and butter!
 Van,Retail,John Lewis,1,FALSE,Van_Retail_John Lewis,Van_Retail_John Lewis,shopping_bag,retail_therapy,Retail therapy!
-Van,Retail,Kingsmill,1,FALSE,Van_Retail_Kingsmill,Van_Retail_Kingsmill,shopping_bag,retail_therapy|bread,Retail therapy!|Bringing home the bread!
+Van,Retail,Kingsmill,1,FALSE,Van_Retail_Kingsmill,Van_Retail_Kingsmill,shopping_bag,retail_therapy|bread,Retail therapy!|Bread and butter!
 Van,Retail,Menzies,1,FALSE,Van_Retail_Menzies,Van_Retail_Menzies,shopping_bag,retail_therapy,Retail therapy!
 Van,Retail,Müller,1,FALSE,Van_Retail_Müller,Van_Retail_Müller,shopping_bag,retail_therapy,Retail therapy!
 Van,Retail,Next,1,FALSE,Van_Retail_Next,Van_Retail_Next,shopping_bag,retail_therapy,Retail therapy!
@@ -327,7 +327,7 @@ Van,Retail,Oakland,2,FALSE,Van_Retail_Oakland,Van_Retail_Oakland,shopping_bag,re
 Van,Retail,Poundland,1,FALSE,Van_Retail_Poundland,Van_Retail_Poundland,shopping_bag,retail_therapy,Retail therapy!
 Van,Retail,Samworth Brothers,1,FALSE,Van_Retail_Samworth Brothers,Van_Retail_Samworth Brothers,shopping_bag,retail_therapy,Retail therapy!
 Van,Retail,TK Maxx,2,FALSE,Van_Retail_TK Maxx,Van_Retail_TK Maxx,shopping_bag,retail_therapy,Retail therapy!
-Van,Retail,Warburtons,1,FALSE,Van_Retail_Warburtons,Van_Retail_Warburtons,shopping_bag,retail_therapy|bread,Retail therapy!|Bringing home the bread!
+Van,Retail,Warburtons,1,FALSE,Van_Retail_Warburtons,Van_Retail_Warburtons,shopping_bag,retail_therapy|bread,Retail therapy!|Bread and butter!
 Van,Supermarkets,Aldi,1,FALSE,Van_Supermarkets_Aldi,Van_Supermarkets_Aldi,shopping_cart,little_help,Every little helps!
 Van,Supermarkets,ASDA,1,FALSE,Van_Supermarkets_ASDA,Van_Supermarkets_ASDA,shopping_cart,little_help,Every little helps!
 Van,Supermarkets,Co-Op,2,FALSE,Van_Supermarkets_Co-Op,Van_Supermarkets_Co-Op,shopping_cart,little_help,Every little helps!
@@ -370,11 +370,11 @@ Vehicle - Other,Misc,Taxi (sign on top),1,FALSE,Vehicle - Other_Misc_Taxi (sign 
 Vehicle - Other,Misc,Train,4,FALSE,Vehicle - Other_Misc_Train,Vehicle - Other_Misc_Train,commute,,
 Vehicle - Other,Misc,Train Track,2,FALSE,Vehicle - Other_Misc_Train Track,Vehicle - Other_Misc_Train Track,commute,,
 Vehicle - Other,Misc,Wheelchair,3,FALSE,Vehicle - Other_Misc_Wheelchair,Vehicle - Other_Misc_Wheelchair,commute,,
-Vehicle - Other,Motorcycles,Bike: Black,1,FALSE,Vehicle - Other_Motorcycles_Bike: Black,Vehicle - Other_Motorcycles_Bike: Black,two_wheeler,bike|rainbow,On yer bike!|Somewhere over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Blue,2,FALSE,Vehicle - Other_Motorcycles_Bike: Blue,Vehicle - Other_Motorcycles_Bike: Blue,two_wheeler,bike|rainbow,On yer bike!|Somewhere over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Other,2,FALSE,Vehicle - Other_Motorcycles_Bike: Other,Vehicle - Other_Motorcycles_Bike: Other,two_wheeler,bike|rainbow,On yer bike!|Somewhere over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Red,2,FALSE,Vehicle - Other_Motorcycles_Bike: Red,Vehicle - Other_Motorcycles_Bike: Red,two_wheeler,bike|rainbow,On yer bike!|Somewhere over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Tandem,3,FALSE,Vehicle - Other_Motorcycles_Bike: Tandem,Vehicle - Other_Motorcycles_Bike: Tandem,two_wheeler,bike|rainbow,On yer bike!|Somewhere over the rainbow!
-Vehicle - Other,Motorcycles,Helmet: Black,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Black,Vehicle - Other_Motorcycles_Helmet: Black,sports_motorsports,bike|rainbow,On yer bike!|Somewhere over the rainbow!
-Vehicle - Other,Motorcycles,Helmet: Other,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Other,Vehicle - Other_Motorcycles_Helmet: Other,sports_motorsports,bike|rainbow,On yer bike!|Somewhere over the rainbow!
-Vehicle - Other,Motorcycles,Helmet: White,1,FALSE,Vehicle - Other_Motorcycles_Helmet: White,Vehicle - Other_Motorcycles_Helmet: White,sports_motorsports,bike|rainbow,On yer bike!|Somewhere over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Black,1,FALSE,Vehicle - Other_Motorcycles_Bike: Black,Vehicle - Other_Motorcycles_Bike: Black,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Blue,2,FALSE,Vehicle - Other_Motorcycles_Bike: Blue,Vehicle - Other_Motorcycles_Bike: Blue,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Other,2,FALSE,Vehicle - Other_Motorcycles_Bike: Other,Vehicle - Other_Motorcycles_Bike: Other,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Red,2,FALSE,Vehicle - Other_Motorcycles_Bike: Red,Vehicle - Other_Motorcycles_Bike: Red,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Tandem,3,FALSE,Vehicle - Other_Motorcycles_Bike: Tandem,Vehicle - Other_Motorcycles_Bike: Tandem,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: Black,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Black,Vehicle - Other_Motorcycles_Helmet: Black,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: Other,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Other,Vehicle - Other_Motorcycles_Helmet: Other,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: White,1,FALSE,Vehicle - Other_Motorcycles_Helmet: White,Vehicle - Other_Motorcycles_Helmet: White,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
