@@ -272,7 +272,7 @@ const Map<String, String> achievementLabels = {
   'farmer': '🚜 Me and the farmer!',
   'builder': '🔨 Bob the builder!',
   'location': '📍 Location location location!',
-  'rainbow': '🌈 Somewhere over the rainbow!',
+  'rainbow': '🌈 Over the rainbow!',
   'interest': '📸 Been there done that!',
   'fuel': '⛽ Fuel the imagination!',
   'rule': '🇬🇧 Rule Britannia!',
@@ -287,7 +287,7 @@ const Map<String, String> achievementLabels = {
   'bin': '🗑️ It\'s bin a long time coming!',
   'bus_coach': '🚌 Bus-ted!',
   'object': '💎 Object of desire!',
-  'wavelength': '📡 We\'re on the same wavelength!',
+  'wavelength': '📡 Same wavelength!',
   'naturel': '🌿 Au naturel!',
   'middle_road': '🛣️ Middle of the road!',
   'speed_freak': '⚡ Speed freak!',
@@ -3839,6 +3839,17 @@ class TripSummaryScreen extends StatelessWidget {
                   'Doubles Contribution',
                   '${trip.doubleScore} / ${trip.doubleMaxScore} '
                       '(${trip.doubleMaxScore == 0 ? "0" : ((trip.doubleScore / trip.doubleMaxScore) * 100).toStringAsFixed(1)}%)',
+                ),
+
+                _tableRow(
+                  'Triples Found',
+                  '${trip.tripleItemsFound} / ${trip.totalTripleItems}',
+                ),
+
+                _tableRow(
+                  'Triples Contribution',
+                  '${trip.tripleScore} / ${trip.tripleMaxScore} '
+                      '(${trip.tripleMaxScore == 0 ? "0" : ((trip.tripleScore / trip.tripleMaxScore) * 100).toStringAsFixed(1)}%)',
                 ),
 
                 _tableRow(
