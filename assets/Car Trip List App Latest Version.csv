@@ -134,6 +134,7 @@ Misc - Items,Objects,Speed camera,1,FALSE,Misc - Items_Objects_Speed camera,Misc
 Misc - Items,Objects,Telephone box,2,FALSE,Misc - Items_Objects_Telephone box,Misc - Items_Objects_Telephone box,category,object,Object of desire!
 Misc - Items,Objects,Washing/Clothes Hung Up,1,FALSE,Misc - Items_Objects_Washing/Clothes Hung Up,Misc - Items_Objects_Washing,category,location|object,Location location location!Object of desire!
 Misc - Items,Objects,Wooden Pallets,1,FALSE,Misc - Items_Objects_Wooden Pallets,Misc - Items_Objects_Wooden Pallets,category,object,Object of desire!
+Misc - Items,Objects,Wind Sock,4,FALSE,Misc - Items_Objects_Wind Sock,Misc - Items_Objects_Wind Sock,category,object,Object of desire!
 Misc - Items,People,Hat,2,FALSE,Misc - Items_People_Hat,Misc - Items_People_Hat,person,,
 Misc - Items,People,Jogger,2,FALSE,Misc - Items_People_Jogger,Misc - Items_People_Jogger,person,,
 Misc - Items,People,Person on their phone,1,FALSE,Misc - Items_People_Person on their phone,Misc - Items_People_Doom_Scroll,person,wavelength,Same wavelength!
@@ -190,6 +191,7 @@ Signs,Highway Code,Aeroplane/Airport,1,FALSE,Signs_Highway Code_Aeroplane/Airpor
 Signs,Highway Code,Animal,2,FALSE,Signs_Highway Code_Animal,Signs_Highway Code_Animal,report,highway|animals,Highway robbery!|Animals crackers!
 Signs,Highway Code,Bend to Left/Right,1,FALSE,Signs_Highway Code_Bend to Left/Right,Signs_Highway Code_Bend to Left or Right,report,highway,Highway robbery!
 Signs,Highway Code,Blank,2,FALSE,Signs_Highway Code_Blank,Signs_Highway Code_Blank,report,highway,Highway robbery!
+Signs,Highway Code,Bicycle,2,FALSE,Signs_Highway Code_Bicycle,Signs_Highway Code_Bicycle,report,highway|bike,Highway robbery!|On yer bike!
 Signs,Highway Code,Diverted Traffic,1,FALSE,Signs_Highway Code_Diverted Traffic,Signs_Highway Code_Diverted Traffic,report,highway|builder,Highway robbery!|Bob the builder!
 Signs,Highway Code,Exclamation Mark,1,FALSE,Signs_Highway Code_Exclamation Mark,Signs_Highway Code_Exclamation Mark,report,highway,Highway robbery!
 Signs,Highway Code,Horse-riding,2,FALSE,Signs_Highway Code_Horse-riding,Signs_Highway Code_Horse-riding,report,highway|animals,Highway robbery!|Animals crackers!
@@ -256,7 +258,7 @@ Van,Haulage & Logistics,AA,1,FALSE,Van_Haulage & Logistics_AA,Van_Haulage & Logi
 Van,Haulage & Logistics,Best,1,FALSE,Van_Haulage & Logistics_Best,Van_Haulage & Logistics_Best,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Bodyless,2,FALSE,Van_Haulage & Logistics_Bodyless,Van_Haulage & Logistics_Bodyless,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Boughey,1,FALSE,Van_Haulage & Logistics_Boughey,Van_Haulage & Logistics_Boughey,local_shipping,long_haul,In it for the long haul!
-Van,Haulage & Logistics,Brakes,1,FALSE,Van_Haulage & Logistics_Brakes,Van_Haulage & Logistics_Brakes,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,Brakes,2,FALSE,Van_Haulage & Logistics_Brakes,Van_Haulage & Logistics_Brakes,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Culina: Culina,1,FALSE,Van_Haulage & Logistics_Culina: Culina,Van_Haulage & Logistics_Culina: Culina,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Culina: Fowler Welch,1,FALSE,Van_Haulage & Logistics_Culina: Fowler Welch,Van_Haulage & Logistics_Culina: Fowler Welch,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Culina: Great Bear,1,FALSE,Van_Haulage & Logistics_Culina: Great Bear,Van_Haulage & Logistics_Culina: Great Bear,local_shipping,long_haul,In it for the long haul!
@@ -265,7 +267,8 @@ Van,Haulage & Logistics,Culina: Warrens,1,FALSE,Van_Haulage & Logistics_Culina: 
 Van,Haulage & Logistics,DFDS,1,FALSE,Van_Haulage & Logistics_DFDS,Van_Haulage & Logistics_DFDS,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Discordia,2,FALSE,Van_Haulage & Logistics_Discordia,Van_Haulage & Logistics_Discordia,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Eddie Stobart (Original),1,FALSE,Van_Haulage & Logistics_Eddie Stobart (Original),Van_Haulage & Logistics_Eddie Stobart (Original),local_shipping,long_haul,In it for the long haul!
-Van,Haulage & Logistics,Ellerman,3,FALSE,Van_Haulage & Logistics_Ellerman,Van_Haulage & Logistics_Ellerman,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,Ellerman,4,FALSE,Van_Haulage & Logistics_Ellerman,Van_Haulage & Logistics_Ellerman,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,EV Cargo,3,FALSE,Van_Haulage & Logistics_EV Cargo,Van_Haulage & Logistics_EV Cargo,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Evergreen,2,FALSE,Van_Haulage & Logistics_Evergreen,Van_Haulage & Logistics_Evergreen,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,FreshLinc Haulage,1,FALSE,Van_Haulage & Logistics_FreshLinc Haulage,Van_Haulage & Logistics_FreshLinc Haulage,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Gregory,1,FALSE,Van_Haulage & Logistics_Gregory,Van_Haulage & Logistics_Gregory,local_shipping,long_haul,In it for the long haul!
@@ -274,12 +277,14 @@ Van,Haulage & Logistics,H.Z. Logistics,1,FALSE,Van_Haulage & Logistics_H.Z. Logi
 Van,Haulage & Logistics,Hapag-Lloyd (Orange/Blue),1,FALSE,Van_Haulage & Logistics_Hapag-Lloyd (Orange/Blue),Van_Haulage & Logistics_Hapag-Lloyd (Orange/Blue),local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Hapag-Lloyd (White/Blue),1,FALSE,Van_Haulage & Logistics_Hapag-Lloyd (White/Blue),Van_Haulage & Logistics_Hapag-Lloyd (White/Blue),local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Heidelberg Materials,4,FALSE,Van_Haulage & Logistics_Heidelberg Materials,Van_Haulage & Logistics_Heidelberg Materials,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,JCarrion,1,FALSE,Van_Haulage & Logistics_Jcarrion,Van_Haulage & Logistics_Jcarrion,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Lenham Storage,1,FALSE,Van_Haulage & Logistics_Lenham Storage,Van_Haulage & Logistics_Lenham Storage,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,MAERSK,1,FALSE,Van_Haulage & Logistics_MAERSK,Van_Haulage & Logistics_MAERSK,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Maritime,1,FALSE,Van_Haulage & Logistics_Maritime,Van_Haulage & Logistics_Maritime,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Moran Logistics,1,FALSE,Van_Haulage & Logistics_Moran Logistics,Van_Haulage & Logistics_Moran Logistics,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,MSC,1,FALSE,Van_Haulage & Logistics_MSC,Van_Haulage & Logistics_MSC,local_shipping,long_haul,In it for the long haul!
-Van,Haulage & Logistics,Nicholls Transport,1,FALSE,Van_Haulage & Logistics_Nicholls Transport,Van_Haulage & Logistics_Nicholls Transport,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,Nicholls Transport,2,FALSE,Van_Haulage & Logistics_Nicholls Transport,Van_Haulage & Logistics_Nicholls Transport,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,Nordfrost,3,FALSE,Van_Haulage & Logistics_Nordfrost,Van_Haulage & Logistics_Nordfrost,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Owens,2,FALSE,Van_Haulage & Logistics_Owens,Van_Haulage & Logistics_Owens,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Petrol Tanker,1,FALSE,Van_Haulage & Logistics_Petrol Tanker,Van_Haulage & Logistics_Petrol Tanker,local_shipping,long_haul|fuel,In it for the long haul!|Fuel the imagination!
 Van,Haulage & Logistics,Power (Electric/Gas),1,FALSE,Van_Haulage & Logistics_Power (Electric/Gas),Van_Haulage & Logistics_Electric/Gas,local_shipping,long_haul,In it for the long haul!
@@ -288,14 +293,14 @@ Van,Haulage & Logistics,RAC,1,FALSE,Van_Haulage & Logistics_RAC,Van_Haulage & Lo
 Van,Haulage & Logistics,RB (Reed Boardall),1,FALSE,Van_Haulage & Logistics_RB (Reed Boardall),Van_Haulage & Logistics_RB (Reed Boardall),local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Reynolds,1,FALSE,Van_Haulage & Logistics_Reynolds,Van_Haulage & Logistics_Reynolds,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,ROMAC,1,FALSE,Van_Haulage & Logistics_ROMAC,Van_Haulage & Logistics_ROMAC,local_shipping,long_haul,In it for the long haul!
-Van,Haulage & Logistics,SITRA,1,FALSE,Van_Haulage & Logistics_SITRA,Van_Haulage & Logistics_SITRA,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,SITRA,2,FALSE,Van_Haulage & Logistics_SITRA,Van_Haulage & Logistics_SITRA,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Turners Transport,1,FALSE,Van_Haulage & Logistics_Turners Transport,Van_Haulage & Logistics_Turners Transport,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Waberer’s,1,FALSE,Van_Haulage & Logistics_Waberer’s,Van_Haulage & Logistics_Waberer’s,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Water Company,1,FALSE,Van_Haulage & Logistics_Water Company,Van_Haulage & Logistics_Water,local_shipping,long_haul,In it for the long haul!
-Van,Haulage & Logistics,Weaver,2,FALSE,Van_Haulage & Logistics_Weaver,Van_Haulage & Logistics_Weaver,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,Weaver,3,FALSE,Van_Haulage & Logistics_Weaver,Van_Haulage & Logistics_Weaver,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,Whistl,1,FALSE,Van_Haulage & Logistics_Whistl,Van_Haulage & Logistics_Whistl,local_shipping,long_haul,In it for the long haul!
 Van,Haulage & Logistics,XPO Logistics,1,FALSE,Van_Haulage & Logistics_XPO Logistics,Van_Haulage & Logistics_XPO Logistics,local_shipping,long_haul,In it for the long haul!
-Van,Haulage & Logistics,YANG MING,3,FALSE,Van_Haulage & Logistics_YANG MING,Van_Haulage & Logistics_YANG,local_shipping,long_haul,In it for the long haul!
+Van,Haulage & Logistics,YANG MING,4,FALSE,Van_Haulage & Logistics_YANG MING,Van_Haulage & Logistics_YANG,local_shipping,long_haul,In it for the long haul!
 Van,Makes,DAF,1,FALSE,Van_Makes_DAF,Van_Makes_DAF,badge,vans_man,A vans man!
 Van,Makes,IVECO,1,FALSE,Van_Makes_IVECO,Van_Makes_IVECO,badge,vans_man,A vans man!
 Van,Makes,KRONE,1,FALSE,Van_Makes_KRONE,Van_Makes_KRONE,badge,vans_man,A vans man!
