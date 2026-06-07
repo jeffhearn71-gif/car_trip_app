@@ -225,15 +225,15 @@ Signs,Highway Code,Welcome to…,3,FALSE,Signs_Highway Code_Welcome to…,Signs_
 Signs,Highway Code,Please Drive Carefully,2,FALSE,Signs_Highway Code_Please Drive Carefully,Signs_Highway Code_Please Drive Carefully,info,highway,Highway robbery!
 Signs,Highway Code,Tourism Sign - No Writing,1,FALSE,Signs_Highway Code_Tourism Sign - No Writing,Signs_Highway Code_Tourism Sign - No Writing,info,highway|rainbow,Highway robbery!|Over the rainbow!
 Signs,Highway Code,Tourism Sign - With Writing,1,FALSE,Signs_Highway Code_Tourism Sign - With Writing,Signs_Highway Code_Tourism Sign - With Writing,info,highway|rainbow,Highway robbery!|Over the rainbow!
-Signs,Orange Diversion Routes,Circle - Solid,1,FALSE,Signs_Orange Diversion Routes_Circle - Solid,Signs_Orange Diversion Routes_Circle - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Circle,1,FALSE,Signs_Orange Diversion Routes_Circle,Signs_Orange Diversion Routes_Circle,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Cross (X),3,FALSE,Signs_Orange Diversion Routes_Cross (X),Signs_Orange Diversion Routes_Cross (X),category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Diamond - Solid,1,FALSE,Signs_Orange Diversion Routes_Diamond - Solid,Signs_Orange Diversion Routes_Diamond - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Diamond,1,FALSE,Signs_Orange Diversion Routes_Diamond,Signs_Orange Diversion Routes_Diamond,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Square - Solid,1,FALSE,Signs_Orange Diversion Routes_Square - Solid,Signs_Orange Diversion Routes_Square - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Square,1,FALSE,Signs_Orange Diversion Routes_Square,Signs_Orange Diversion Routes_Square,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Triangle - Solid,1,FALSE,Signs_Orange Diversion Routes_Triangle - Solid,Signs_Orange Diversion Routes_Triangle - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
-Signs,Orange Diversion Routes,Triangle,1,FALSE,Signs_Orange Diversion Routes_Triangle,Signs_Orange Diversion Routes_Triangle,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Circle - Solid,1,FALSE,Signs_Diversion Routes_Circle - Solid,Signs_Diversion Routes_Circle - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Circle,1,FALSE,Signs_Diversion Routes_Circle,Signs_Diversion Routes_Circle,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Cross (X),3,FALSE,Signs_Diversion Routes_Cross (X),Signs_Diversion Routes_Cross (X),category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Diamond - Solid,1,FALSE,Signs_Diversion Routes_Diamond - Solid,Signs_Diversion Routes_Diamond - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Diamond,1,FALSE,Signs_Diversion Routes_Diamond,Signs_Diversion Routes_Diamond,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Square - Solid,1,FALSE,Signs_Diversion Routes_Square - Solid,Signs_Diversion Routes_Square - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Square,1,FALSE,Signs_Diversion Routes_Square,Signs_Diversion Routes_Square,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Triangle - Solid,1,FALSE,Signs_Diversion Routes_Triangle - Solid,Signs_Diversion Routes_Triangle - Solid,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
+Signs,Diversion Routes,Triangle,1,FALSE,Signs_Diversion Routes_Triangle,Signs_Diversion Routes_Triangle,category,orange_black|rainbow,Orange is the new black!|Over the rainbow!
 Signs,Road Names,Avenue/Court/Crescent,2,FALSE,Signs_Road Names_Avenue/Court/Crescent,Signs_Road Names_Avenue/Court/Crescent,add_road,location,Location location location!
 Signs,Road Names,Close,2,FALSE,Signs_Road Names_Close,Signs_Road Names_Close,add_road,location,Location location location!
 Signs,Road Names,Lane,2,FALSE,Signs_Road Names_Lane,Signs_Road Names_Lane,add_road,location,Location location location!

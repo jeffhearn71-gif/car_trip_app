@@ -2419,7 +2419,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
                     child: ListTile(
                       leading: const Icon(Icons.list, size: 36),
                       title: Text(
-                        '★ MASTER LIST ★   ($remainingCount left)',
+                        'MASTER LIST ($remainingCount left)',
                         style: const TextStyle(fontWeight: FontWeight.bold),
                       ),
 
@@ -2433,7 +2433,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
                           context,
                           MaterialPageRoute(
                             builder: (_) => ItemScreen(
-                              title: '* MASTER LIST *',
+                              title: 'MASTER LIST',
                               items: remainingItems,
                               foundById: foundById,
                               onToggle: _toggleAndPersist,
